@@ -6,6 +6,8 @@
 !/LICENSE
 !/NOTICE
 !/CMakeLists.txt
+!/flake.nix
+!/flake.lock
 !/src/
 !/qml/
 !/helper/
